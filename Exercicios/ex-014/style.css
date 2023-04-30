@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+    background-color: aqua; /*Cor do fundo*/
+    font-family: Arial, Helvetica, sans-serif;/*Estilo do texto*/
+    font-size: 20px;/*Tamanhp do texto*/
+}
+h1{
+    color: blue;/*Cor do titulo*/
+    background-color: aquamarine;/*Cor de fundo do titulo*/
+}
+h2{
+    color: brown;/*Cor do subtitulo*/
+}
+p{
+    text-align: justify;/*Espacamento do texto*/
+}
